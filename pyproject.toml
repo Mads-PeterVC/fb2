@@ -11,6 +11,7 @@ dependencies = [
     "ipykernel",
     "ipywidgets",
     "jupyter",
+    "jupyterquiz>=2.9.6.2",
     "matplotlib",
     "numpy",
     "pandas",
